@@ -6,6 +6,7 @@ The mazes must be the same format as the example maze, and the maze loader will 
 If needed, mazes can be loaded raw with a toggle, without any modification.
 
 ## Example Maze
+```
 +--+--+--+--+--+--+--+--+--+--+
                   |        |  |
 +--+--+  +--+--+  +  +--+  +  +
@@ -27,3 +28,4 @@ If needed, mazes can be loaded raw with a toggle, without any modification.
 +--+--+  +  +--+  +  +  +  +--+
 |        |        |     |      
 +--+--+--+--+--+--+--+--+--+--+
+```
